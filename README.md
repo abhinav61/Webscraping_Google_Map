@@ -7,4 +7,4 @@
 
 5. This functionality is performed to get the data from the google map. It is performed using Search and location options.
 
-to run the code - python main.py -l= <city name> -s<things to search>
+to run the code - python main.py -l=<city name> -s<things to search>
