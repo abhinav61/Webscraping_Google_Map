@@ -9,5 +9,5 @@
 
 to run the code - python main.py -l=New york -s= Hotels
 
-p.s - "l" is the city name. you can select any city name, same goes for "s"
+p.s - "l" is the city name. you can select any city name, and "s" is whatever you want to select. 
 
